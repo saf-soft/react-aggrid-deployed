@@ -6,7 +6,7 @@ import Countrygrid from './Countrygrid';
 function App() {
   return (
     <div>
-    <div align="center" style={{color:"#f7df1e",size:"15",fontWeight:"bold"}}>React App</div>
+    <div align="center" style={{color:"#f7df1e",fontSize:"15",fontWeight:"bold"}}>React App</div>
     <br></br>
      <br></br>
     <div align="center" style={{color:"red",font:"7",fontWeight:"bold"}}>This is data is fetched from aggrid website</div>
