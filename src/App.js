@@ -22,7 +22,7 @@ function App() {
    <Countrygrid></Countrygrid>
     <br></br>
     <hr></hr>
-    <div align="center" style={{color:"#4b3832",font:"5",fontWeight:"bold"}}>Developed by Safwan Mannambath</div>
+    <div align="center" style={{color:"#4b3832",font:"5",fontWeight:"bold"}}>Developed by - Safwan Mannambath</div>
      <br></br>
      <br></br>
      <br></br>
