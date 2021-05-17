@@ -6,10 +6,10 @@ import Countrygrid from './Countrygrid';
 function App() {
   return (
     <div>
-    <div align="center" style={{color:"#f7df1e",fontSize:15,fontWeight:"bold"}}>React App</div>
+    <div align="center" style={{color:"#f7df1e",fontSize:25,fontWeight:"bold"}}>React App</div>
     <br></br>
      <br></br>
-    //<div align="center" style={{color:"red",font:"7",fontWeight:"bold"}}>This is data is fetched from aggrid website</div>
+    <!--<div align="center" style={{color:"red",font:"7",fontWeight:"bold"}}>This is data is fetched from aggrid website</div>-->
     <br></br>
     <div align="center" style={{color:"#651e3e",font:"7",fontWeight:"bold"}}>Automobile ShowRoom</div>
     <br></br>
