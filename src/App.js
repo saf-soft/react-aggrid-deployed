@@ -16,7 +16,11 @@ function App() {
    <br></br>
    <Countrygrid></Countrygrid>
     <br></br>
+    <hr></hr>
     <div align="center" style={{color:"cornflowerblue",font:"5",fontWeight:"bold"}}>Developed by Safwan Mannambath</div>
+     <br></br>
+     <br></br>
+     <br></br>
     </div>
   );
 }
