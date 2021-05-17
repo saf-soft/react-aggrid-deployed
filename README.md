@@ -1,9 +1,13 @@
+The important part after push to github is edit package sons homepages URL from " //http://saf-soft.github.io/react-aggrid-deployed"" to "."
+Then only netlify is showing the app, otherwise it showing blank
+Now its working -> https://react-rest-api.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-  //http://saf-soft.github.io/react-aggrid-deployed"
+ 
 In the project directory, you can run:
 
 ### `npm start`
