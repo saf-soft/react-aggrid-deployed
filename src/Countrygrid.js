@@ -37,6 +37,10 @@ const onGridReady=(params)=>{
                <AgGridColumn field="region" width="300" sortable={true} resizable={true} filter={true}></AgGridColumn>
                <AgGridColumn headerName="Internet Domain" field="topLevelDomain" resizable={true} sortable={true} filter={true}></AgGridColumn>
                <AgGridColumn field="translations.fa" headerName="Arabic" resizable={true}  sortable={true} filter={true}></AgGridColumn>
+       <AgGridColumn field="nativeName" headerName="NativeName" resizable={true}  sortable={true} filter={true}></AgGridColumn>
+       <AgGridColumn field="numericCode" headerName="NumericCode" resizable={true}  sortable={true} filter={true}></AgGridColumn>
+        <AgGridColumn field="callingCodes" headerName="CallingCodes" resizable={true}  sortable={true} filter={true}></AgGridColumn>
+        <AgGridColumn field="timezones" headerName="TimeZone" resizable={true}  sortable={true} filter={true}></AgGridColumn>
                <AgGridColumn field="borders" headerName="Borders" resizable={true} sortable={true} filter={true}></AgGridColumn>
                <AgGridColumn field="altSpellings" headerName="Spelling" resizable={true} sortable={true} filter={true}></AgGridColumn>
                
